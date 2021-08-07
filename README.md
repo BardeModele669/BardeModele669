@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BardeModele669
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on a project
+- 📫 How to reach me enioaiello1@gmail.com
