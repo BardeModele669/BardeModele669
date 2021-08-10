@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me enioaiello1@gmail.com
+- 💬 My Discord server: https://discord.gg/eXQ9Ts6z
